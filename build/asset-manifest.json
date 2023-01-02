@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/handoff-visualizer/static/css/main.c507e2b7.chunk.css",
+    "main.js": "/handoff-visualizer/static/js/main.af3b71bf.chunk.js",
+    "main.js.map": "/handoff-visualizer/static/js/main.af3b71bf.chunk.js.map",
+    "runtime-main.js": "/handoff-visualizer/static/js/runtime-main.384b9427.js",
+    "runtime-main.js.map": "/handoff-visualizer/static/js/runtime-main.384b9427.js.map",
+    "static/js/2.923ba52f.chunk.js": "/handoff-visualizer/static/js/2.923ba52f.chunk.js",
+    "static/js/2.923ba52f.chunk.js.map": "/handoff-visualizer/static/js/2.923ba52f.chunk.js.map",
+    "index.html": "/handoff-visualizer/index.html",
+    "precache-manifest.4d2a6f26d66d468f491651e1e2dfa75c.js": "/handoff-visualizer/precache-manifest.4d2a6f26d66d468f491651e1e2dfa75c.js",
+    "service-worker.js": "/handoff-visualizer/service-worker.js",
+    "static/css/main.c507e2b7.chunk.css.map": "/handoff-visualizer/static/css/main.c507e2b7.chunk.css.map",
+    "static/js/2.923ba52f.chunk.js.LICENSE.txt": "/handoff-visualizer/static/js/2.923ba52f.chunk.js.LICENSE.txt",
+    "static/media/Entrance.css": "/handoff-visualizer/static/media/arrow3.201a977c.svg",
+    "static/media/Node.css": "/handoff-visualizer/static/media/handoff3.33aa5d42.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.384b9427.js",
+    "static/js/2.923ba52f.chunk.js",
+    "static/css/main.c507e2b7.chunk.css",
+    "static/js/main.af3b71bf.chunk.js"
+  ]
+}
